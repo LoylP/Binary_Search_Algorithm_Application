@@ -23,5 +23,3 @@ In row 2, we will enter in turn the number of people that each machine can make 
 - Suppose we are looking for the shortest time in the segment [l, r] and we know for certain that by day r will have completed at least k products.
 - We will choose a certain date h such that h belongs to [l, r]. If by day h, we cannot complete k products, then according to the above comment, considering from day l to day h is not necessary and we will continue to search for results in the paragraph [h+1, r].
 - And if by day h we have completed at least k products, we will find the result in the interval [l, h] because now we know we will need at most h days to complete k products.
-
-Thanks <3!
