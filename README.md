@@ -14,6 +14,8 @@ Step 3:
 
 Ex: There is a workshop with n machines (n \leq 10^{5} ), the i-th machine needs exactly a_{i} days (0<a_{i}\leq 10^{9}) to complete 1 product same. Calculate the minimum time it takes to complete at least k products (0< k< 10^{9}).
 ![image](https://user-images.githubusercontent.com/115894727/223094526-389d9676-34bd-45a2-bf12-ac659cc44f63.png)
-
+explain:
+In the first row of the example, we enter 2 numbers, respectively, the number of machines and the number of products.
+In row 2, we will enter in turn the number of people that each machine can make 1 product
 
 Thanks <3!
